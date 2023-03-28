@@ -16,6 +16,30 @@ public class operaciones {
     public static double suma(double a, double b){
     
     return a+b;}
+    
+    public static int resta(int a, int b){
+    
+    return a-b;}
+    
+    public static double resta(double a, double b){
+    
+    return a-b;}
+    
+     public static int multiplicacion(int a, int b){
+    
+    return a*b;}
+    
+    public static double multiplicacion(double a, double b){
+    
+    return a*b;}
+    
+    public static int division(int a, int b){
+    
+    return a/b;}
+    
+    public static double division(double a, double b){
+    
+    return a/b;}
 
     public static void desde_VSC(){
         System.out.println("añadiendo al repositorio desde un IDE");
