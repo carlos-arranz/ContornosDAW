@@ -32,6 +32,7 @@ public class operaciones {
     public static double multiplicacion(double a, double b){
     
     return a*b;}
+//manuAllegue-patch-1
     
     public static int division(int a, int b){
     
@@ -40,6 +41,7 @@ public class operaciones {
     public static double division(double a, double b){
     
     return a/b;}
+//main
 
     public static void desde_VSC(){
         System.out.println("añadiendo al repositorio desde un IDE");
