@@ -21,6 +21,8 @@ public class Operaciones {
         System.out.println(resultado);
         resultado=resta(3,4);
         System.out.println(resultado);
+         resultado=multiplicacion(3,4);
+        System.out.println(resultado);
     }
     
 }
